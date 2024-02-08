@@ -5,7 +5,7 @@ React Expense Tracker is a simple expense tracker app built with React and the c
 # Usage
 
 ```
-git clone https://github.com/fazt/react-expense-tracker 
+git clone https://github.com/harold979/viteYreact-Admin-Gastos.git
 cd react-expense-tracker
 npm install
 npm start
